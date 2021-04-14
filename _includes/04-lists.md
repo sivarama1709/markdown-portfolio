@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* videogames
+  * Assisian's creed valhalla
+  * watch dogs legion
+  * cyberpunk 2077
+* hobbies
+  * cycling
+  * videogames
+  * reading
+  * coding 
